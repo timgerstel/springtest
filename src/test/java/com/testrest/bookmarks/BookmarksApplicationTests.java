@@ -1,4 +1,4 @@
-package com.testapp.test;
+package com.testrest.bookmarks;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TestApplicationTests {
+public class BookmarksApplicationTests {
 
 	@Test
 	public void contextLoads() {
